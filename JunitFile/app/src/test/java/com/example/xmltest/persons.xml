@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student sid="1013" id="1">
+        <name>小军</name>
+        <age>17</age>
+        <project>
+            <c>87</c>
+            <sql>95</sql>
+            <java>72</java>
+        </project>
+    </student>
+    <student sid="1014" id="2">
+        <name>小红</name>
+        <age>18</age>
+        <project>
+            <c>95</c>
+            <sql>84</sql>
+            <java>85</java>
+        </project>
+    </student>
+    <student sid="1015" id="3">
+        <name>小明</name>
+        <age>14</age>
+        <project>
+            <c>55</c>
+            <sql>54</sql>
+            <java>53</java>
+        </project>
+    </student>
+    <student sid="1016" id="1">
+        <name>小李</name>
+        <age>19</age>
+        <project>
+            <c>85</c>
+            <sql>92</sql>
+            <java>94</java>
+        </project>
+    </student>
+    <student sid="1017" id="2">
+        <name>小王</name>
+        <age>13</age>
+        <project>
+            <c>94</c>
+            <sql>64</sql>
+            <java>78</java>
+        </project>
+    </student>
+    <student sid="1018" id="3">
+        <name>小张</name>
+        <age>15</age>
+        <project>
+            <c>68</c>
+            <sql>78</sql>
+            <java>92</java>
+        </project>
+    </student>
+    <student sid="1019" id="1">
+        <name>小田</name>
+        <age>16</age>
+        <project>
+            <c>84</c>
+            <sql>75</sql>
+            <java>92</java>
+        </project>
+    </student>
+    <student sid="1020" id="2">
+        <name>小毛</name>
+        <age>18</age>
+        <project>
+            <c>77</c>
+            <sql>78</sql>
+            <java>82</java>
+        </project>
+    </student>
+    <student sid="1021" id="3">
+        <name>小邓</name>
+        <age>19</age>
+        <project>
+            <c>34</c>
+            <sql>45</sql>
+            <java>58</java>
+        </project>
+    </student>
+    <student sid="1022" id="1">
+        <name>小周</name>
+        <age>13</age>
+        <project>
+            <c>66</c>
+            <sql>87</sql>
+            <java>76</java>
+        </project>
+    </student>
+    <student sid="1023" id="2">
+        <name>小林</name>
+        <age>14</age>
+        <project>
+            <c>88</c>
+            <sql>92</sql>
+            <java>94</java>
+        </project>
+    </student>
+    <student sid="1024" id="3">
+        <name>小刘</name>
+        <age>20</age>
+        <project>
+            <c>99</c>
+            <sql>97</sql>
+            <java>36</java>
+        </project>
+    </student>
+    <student sid="1025" id="1">
+        <name>小朱</name>
+        <age>13</age>
+        <project>
+            <c>67</c>
+            <sql>87</sql>
+            <java>77</java>
+        </project>
+    </student>
+    <student sid="1026" id="2">
+        <name>小金</name>
+        <age>15</age>
+        <project>
+            <c>30</c>
+            <sql>98</sql>
+            <java>60</java>
+        </project>
+    </student>
+
+</students>
