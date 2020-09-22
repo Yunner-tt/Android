@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">信息填写测试</string>
-    <string name="title">信息录入</string>
-    <string name="text_name">姓名：</string>
-    <string name="text_sex">性别：</string>
-    <string name="text_age">年龄：</string>
-    <string name="text_pro">职业：</string>
-    <string name="commit">提交</string>
-</resources>
